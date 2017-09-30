@@ -15,6 +15,6 @@ public class AndroidClient implements Client {
     }
 
     private void dealMsg() {
-        System.out.println(name +"---"+info.getWeather());
+        System.out.println(name +"----"+info.getWeather());
     }
 }
